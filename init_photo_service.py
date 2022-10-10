@@ -3,7 +3,7 @@ from Google import Create_Service
 
 API_NAME = 'photoslibrary'
 API_VERSION = 'v1'
-CLIENT_SECRET_FILE = 'XXX'
+CLIENT_SECRET_FILE = 'AWS'
 SCOPES = ['https://www.googleapis.com/auth/photoslibrary',
           'https://www.googleapis.com/auth/photoslibrary.sharing']
 
